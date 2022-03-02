@@ -16,6 +16,24 @@
             "email": "tech@pivotalagency.com.au"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/charlielove/voyager-blog"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/charlielove/voyager-pages"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/charlielove/voyager-forms"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/charlielove/voyager-frontend"
+        }
+    ],
     "require": {
         "tcg/voyager": "^1.6.dev"
     },
