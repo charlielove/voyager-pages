@@ -35,7 +35,7 @@
         }
     ],
     "require": {
-        "tcg/voyager": "^1.6.dev"
+        "tcg/voyager": "*"
     },
     "require-dev": {
         "phpunit/phpunit": "^9.0"
